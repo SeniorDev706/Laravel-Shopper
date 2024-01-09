@@ -50,16 +50,6 @@ The best place to learn Shopper is by [reading the documentation](https://larave
 
 The Framework uses [Laravel](https://laravel.com) as a foundation PHP framework.
 
-## Contact
-
-You can communicate with us using the following mediums:
-
-* [Follow us on Twitter](https://twitter.com/laravelshopper) for announcements and updates.
-* [Join us on Discord](https://laravelshopper.io/discord) to chat with us.
-
-## Contributing
-
-Please see [contributing.md](CONTRIBUTING.md) for details and a todolist.
 
 ## Security
 
@@ -68,23 +58,8 @@ If you discover any security related issues, please email contact@shopperlabs.io
 It's _heavily_ recommended that you **[subscribe to the Shopper Newsletter](http://laravelshopper.io)** so you can find out about any security updates, breaking changes or major features.
 We send an email about 3-4 emails per year. Sometimes less.
 
-## Credits
-
-- [Arthur Monney][link-author]
-- [Jean-Vincent QUILICHINI][link-author-2]
-- [MailEclipse](https://github.com/Qoraiche/laravel-mail-editor)
-- [All Contributors][link-contributors]
-
-And a special thanks to [Caneco](https://twitter.com/caneco) for the logo ✨
 
 ## License
 
 The Shopper Framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Sponsoring
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-[link-author]: https://github.com/mckenziearts
-[link-author-2]: https://github.com/sense
-[link-contributors]: ../../contributors
